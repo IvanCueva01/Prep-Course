@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones 
+de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+Es un ciclo repetitivo que nos permite realizar u obtener lo que necesitamos, por ejemplo
+cuando vamos al supermercado al momento de llegar a la caja con las compras para pagar, vemos 
+que el cajero pasa cada producto y eso se almacena para luego ser imprimido en el ticket, pues
+bueno eso es mas o menos un ciclo for, realiza la misma accion varias veces para obtener un 
+resultado, con sus parametros respectivos que son el contador de acciones, una condicion y el
+aumentador de las acciones, porque sino entrariamos en un ciclo infinito.
+
+* `&&`, `||`, `!`
+Esos simbolos son expresiones logicas:
+&& ---> significa y;
+|| ---> significa o;
+! ---> significa negación;
+En el colegio no enseñan en algebra el tema de expresiones logicas y con eso la tabla de veracidad
+donde nos dice que:
+V ^ V = V , F v F = F, y ~V = F;
+Entonces, en JavaScript sigue la mismas logica si tenemos true && true nos da true. Solo es cuestion 
+de saber las tablas de veracidad y resulta hasta entretenido jugar con true y false.
