@@ -1,0 +1,10 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones 
+de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays
+    Son como un almacen en donde puedes guardar distintos ejemplares, en este caso estariamos
+    almacenando diferentes tipos de datos como numeros, string o cadenas, funciones, incluso otros Arrays, es
+    como tener un subespacio de almacenamiento. Y, esto nos sirve para listar diferentes datos que
+    posteriormente pueden ser usados o no. Lo importante es que puedes llamarlos cuando sea necesario, ya que 
+    los tienes almacenados.
