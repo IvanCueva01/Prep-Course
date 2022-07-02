@@ -1,0 +1,31 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los 
+siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+    Son exactamente eso objetos como puede ser un lapicero, una cartuchera, etc.
+    Que tiene caracteristicas o propiedades.
+
+	* Propiedades
+    Son lo que definen al objeto, por ejemplo un lapicero tiene un color, tamaño,
+    costo,etc. y lo que se nos pueda ocurrir, todas esas caracteristicas que le pertenecen al
+    objeto puede ser utilizadas.
+
+	* Métodos
+    Son el nombre que se le da a las funciones que estan definidas como una propiedad dentro
+    de un objeto. Como es esto, pues imaginemos que creamos un objeto perro, tiene diferentes 
+    propiedades como nombre, raza, edad, etc, y una de sus caracteristicas es ladrar,esa funcion
+    o accion de ladrar que realiza se vuelve un metodo.
+
+	* Bucle `for…in`
+    Este bucle al igual que el loop For, sirve para recorrer los elementos o en este caso las
+    propiedades del objeto que hemos creado. A traves de algo muy particular, que es una clave
+    que tomara el valor de una propiedad distinta en cada iteracion o recorrido.
+
+	* Notación de puntos vs notación de corchetes
+    La notacion de puntos es facil de escribir y evoca la propiedad de un objeto siempre y cuando
+    esta propiedad este declarada en el objeto. No puede trabajar con variables declaradas fuera del
+    objeto que tengan una propiedad del mismo, ya que el interprete no lo reconoce.
+    La notacion de corchetes es practicamente lo mismo, evoca una propiedad de un objeto que hayamos 
+    escrito entre los corchetes, pero a su vez nos permite trabajar con variables externas declaradas,
+    ya que el interprete ser encarga de realizar la conversion de la misma y jala el dato requerido. 
