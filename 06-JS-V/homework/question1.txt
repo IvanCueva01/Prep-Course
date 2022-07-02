@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones 
+de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+El prototype es como descubrir cual es la raiz de donde proviene el objeto, por ejemplo
+una cadena de texto, su prototype seria el String; de un objeto declarado su prototype
+seria una Array[] y asi podemos ir desglosando. Pero lo mas importante a mi parecer es
+que si nosotros declaramos un metodo en el prototype este aplica de a cada objeto, es decir 
+es como una variable global que puede ser usada en cualquier objeto instanciado.
+
+* _Constructors_ (de Clases)
+Los constructores son los inciadores de las clases, ahi en donde podemos declarar
+las distintas propiedades y metodos de la misma.
