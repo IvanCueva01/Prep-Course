@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de 
+los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Funciones Callback
+Este tipo de funciones nos permite llamar una funcion X dentro de otra funcion Y,
+siendo la funcion X un parametro de la funcion y retornandonos un valor al final.
+Tambien podemos declarar uan funcion directamente como parametro de otra funcion
+y asi mismo retornar algun valor.
