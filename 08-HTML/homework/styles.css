@@ -1,0 +1,46 @@
+body{
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/538a50bc-ccf9-4fd7-902c-69658ee473a8/dc0nr2u-a70f94f4-95f3-4ad9-9609-1c439d313548.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzOGE1MGJjLWNjZjktNGZkNy05MDJjLTY5NjU4ZWU0NzNhOFwvZGMwbnIydS1hNzBmOTRmNC05NWYzLTRhZDktOTYwOS0xYzQzOWQzMTM1NDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BlQSJpVcCXJw8fmUftNAfnCqEqvLsnMDVIHnJc2lih8");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+h1{
+    color:lightblue;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 34%;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    background-color: beige;
+    border: red 7px dashed;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    list-style: none;
+}
+.overflow{
+    overflow: auto;
+}
+
